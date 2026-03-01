@@ -1,8 +1,42 @@
-#Accordion style electric skateboard
-Retract to fit into backpack, extend to ride. Lightweight batteryless electric skateboard
+# Accordion Electric Skateboard
+
+Retract to fit in a backpack. Extend to ride.  
+A lightweight, collapsible electric skateboard powered by supercapacitors — no batteries required.
+
+---
+
+##  Concept
+
+An expandable skateboard deck that mechanically telescopes (accordion-style) between:
+
+- **Compact mode** → backpack-sized
+- **Ride mode** → full skateboard length
+
+The board uses a small hub motor and supercapacitor energy storage.  
+When the rider kicks, kinetic energy is captured and stored, then released to provide gentle electric assist during riding.
+
+---
+
+## ⚡ Batteryless Electric Assist
+
+Instead of Li-ion batteries, the board uses:
+
+- Supercapacitor bank
+- Regenerative hub motor
+- Kick-to-charge energy harvesting
+
+Energy flow:
+
+```
+Kick → Motor regen → Supercapacitors → Motor assist
+```
+
+Result:  
+A self-charging electric assist skateboard with minimal weight and no battery aging.
 
 
-##BOM
+
+## BOM
 | Item                       | Quantity | Individual Price | Bulk Price | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |----------------------------|----------|------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Wheels                     |          | 79.04            |            | https://www.walmart.com/ip/250W-Battery-Powered-Single-Motor-Electric-Skateboard-Speed-Skateboarding-Equipment-Orange/5123780679?wmlspartner=wlpa&selectedSellerId=101421996                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -11,3 +45,9 @@ Retract to fit into backpack, extend to ride. Lightweight batteryless electric s
 | M10 Nut                    |          | 9.99             |            | https://www.amazon.com/Vifmy-M10-1-5mm-Locknuts-Stainless-Standard/dp/B0CPJGTNNL/ref=sr_1_3?crid=1W92TPKGI4D3I&dib=eyJ2IjoiMSJ9.U9Bqe62OXmpFzHWnymvAI0gy3HfJqVxcEuf_81ByiVd2kMdHbBg4aS8Uc7bm1LHHTKKKT5UgiulCmS2xUJ2bOgxJ-M2opcEVWZVsPc7j1i4kEeqKrFZalj3xglION2710up3t1nlijl27QTj5uLut8N-ll1MQhl48lAZVKUp0PdNu2WCglVVjFDgf9lM44pbmNJpiFjLxopEdCvxL8PjAF9XVnM_tU7B-zlBn_G4ff8WWhbgeIAkhIWkrqqAxhOyu0G8I88UeoijD46RVf-BO9nzNvKPgkO8migz_7t-X8E.9SCvl0sXmC0PGEpVXrWWJjCrQtKPNqIEG9xtL2HQuvQ&dib_tag=se&keywords=M10-1.5%2Block%2Bnut&qid=1771986103&s=hi&sprefix=m10-1.5%2Blocknut%2Ctools%2C218&sr=1-3&th=1 |
 | T-Slotted Framing Rail     |          | 30.12            |            | https://orangealuminum.com/ts6325/?srsltid=AfmBOopaodrSVc5C5nzOCgAlPEbQwu_29a6WZwE3dQHGcEm5aqyJoZc7wCo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Super Capacitor            | 10       | 5.82             | 49.57      | https://www.digikey.com/en/products/detail/ymin/SLA3R8L7571840/22530483                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                            |          |                  |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                            |          |                  |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                            |          |                  |            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                            |          | Total:           | 226.12     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+                                                                                                                                                                                                                                                                           |
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
