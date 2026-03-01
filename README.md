@@ -8,8 +8,9 @@ A lightweight, collapsible electric skateboard powered by supercapacitors — no
 ##  Concept
 
 An expandable skateboard deck that mechanically telescopes (accordion-style) between:
-
+![retracted](Images/Closed.png)
 - **Compact mode** → backpack-sized
+![Extended](Images/Open.png)
 - **Ride mode** → full skateboard length
 
 The board uses a small hub motor and supercapacitor energy storage.  
