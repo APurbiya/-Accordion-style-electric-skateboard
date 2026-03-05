@@ -22,7 +22,7 @@ When the rider kicks, kinetic energy is captured and stored, then released to pr
 
 Here is a wiring diagram for how to connect the whole system together.
 
-![Wiring Diagram](images/wiring.png)
+![Wiring Diagram](images/Wiring.png)
 
 ## ⚡ Batteryless Electric Assist
 
