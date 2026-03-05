@@ -4,6 +4,9 @@ Retract to fit in a backpack. Extend to ride.
 A lightweight, collapsible electric skateboard powered by supercapacitors — no batteries required.
 
 ---
+## CAD
+Here is the onshape link
+https://cad.onshape.com/documents/9ee156913fcb53167f646091/w/62f434614b3d08163eec19b8/e/86bf7490747bb422980260c9?renderMode=0&uiState=699e071ea098c231497dadb6
 
 ##  Concept
 
