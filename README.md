@@ -26,6 +26,12 @@ When the rider kicks, kinetic energy is captured and stored, then released to pr
 Here is a wiring diagram for how to connect the whole system together.
 
 ![Wiring Diagram](Images/Wiring.png)
+---
+## Assembly
+Assembly is very straight forwards,
+Start by makign the accordian by printing 4 of the top pieces and 4 of the bottom ones, then bolt them together using the M10 screws and nuts
+Then slide the the 80/20 25 25 tube into both the end peices and screw in the accordian priviously assembeled
+Lastly Attach the wheels slide in the super capacitors and the control board and you are ready to skate.
 
 ## ⚡ Batteryless Electric Assist
 
