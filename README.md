@@ -23,7 +23,7 @@ When the rider kicks, kinetic energy is captured and stored, then released to pr
 
 ## Wiring
 
-Here is a wiring diagram for how to connect the whole system together.
+Here is a wiring diagram for how to connect the whole system together. The system is simple and should be plug and play, the motor connects to the controller, the controller connects to the battery pack
 
 ![Wiring Diagram](Images/Wiring.png)
 ---
