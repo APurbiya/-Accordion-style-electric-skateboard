@@ -67,3 +67,7 @@ A self-charging electric assist skateboard with minimal weight and no battery ag
 |                            |          | Total:           | 226.12     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
                                                                                                                                                                                                                                                                            |
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+
+
+**Everything with cost of shipping and all is $241**
